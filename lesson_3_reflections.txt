@@ -6,3 +6,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	you might be working on changes that aren't yet merged with the cloud
 	version
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	A branch is a new strand of the project. A clone is a copy of the project and its
+	commit history. A fork is a clone that you use as the framework for a spinoff 
+	project.
